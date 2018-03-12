@@ -284,6 +284,20 @@ Fuente: <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
 
 **II. Prototyìng**
 
+**Manual**
+
 ![image-9](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/prototyping.png)
 
 Prototyping: <https://drive.google.com/drive/folders/1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu>
+
+**Figma**
+
+![image-10]()
+
+Figma:
+
+**Marvel**
+
+![image-11]()
+
+Marvel:
