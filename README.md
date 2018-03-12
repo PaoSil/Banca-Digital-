@@ -298,8 +298,8 @@ Figma: <https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank>
 
 **Marvel**
 
-![image-11]()
+![image-11](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/marvel-1.png)
 
-![image-12]()
+![image-12](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/marvel-2.png)
 
 Marvel: <https://marvelapp.com/62b5c01/screen/39523960>
