@@ -33,7 +33,7 @@ Para ello se han propuesto **crear un banco 100% digital** dirigido para **Mille
 
 ### Definición de Actividades:
 
-![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/cronograma%20de%20actividades.png)
+![image-2](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/trello.png)
 
 
 ### Planeamiento e Investigación:
