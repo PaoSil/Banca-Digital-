@@ -195,9 +195,7 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 **I. Modelo y Versiones**
 
 * **Clientes**
-[![Preguntas Entrevista Clientes - Vs-01 /Vs-02](https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM)] (https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM)
-
-Link 3: <https://drive.google.com/open?id=1QeA6FEg_6cdVH-MOIHRPIRsph81RmBi1_gYcqzByBoM>
+![image-5](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/guia%20de%20entrevista.png)
 
 * **Stakeholders Internos**
 Link 4: <https://drive.google.com/open?id=1mfBrjTp-LcUiF0Sdc4oY_IDgfnPlKijsuLT3EPyXjQE>
