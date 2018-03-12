@@ -201,9 +201,12 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 ![image-6](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/guia%20de%20entrevistas-2.png)
 
 * **Encuesta Online**
-Link 5: <https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws>
 
-Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
+![image-7](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/guia%20de%20preguntas-3.png)
+
+Fuente: <https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws>
+
+Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 
 
 #### Proceso Research:
