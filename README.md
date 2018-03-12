@@ -3,6 +3,7 @@ Es una app que te permite realizar operaciones bancarias rápidamente,
 configurando previamente através de un planificador y recibiendo
 notificaciones para confirmar las operaciones.
 
+
 ![Inicio](assets/inicio-easy-bank-1.png)
 
 ## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
@@ -206,7 +207,6 @@ Link 5: <https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM
 
 Link 6 - Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 
-```
 
 #### Proceso Research:
 ##### Cuantitativo
