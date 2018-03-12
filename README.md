@@ -225,7 +225,8 @@ Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 * Entrevistas , Encuestas y Conclusiones
 
 **A. Entrevistas**
-* **Clientes**
+
+**Clientes**
 
 - **Descripcion**. Millenials comprenden entre 18-38 años
 
@@ -242,7 +243,7 @@ Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 - No tienen mucho tiempo para dar seguimiento a reclamos
 
 
-* **Stakeholders Internos**
+**Stakeholders Internos**
 
 - **Descripcion**. Gerente de Operaciones "Banco El Pais"
 
@@ -253,7 +254,7 @@ Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 - Ofrecer al cliente todos los servicios pero de una manera mas eficaz.
 - Mediante la banca digital agilizar las operaciones realizadas por los usuarios.
 
-* **Encuesta Online**
+**Encuesta Online**
 
 - **Resumen**.
 
