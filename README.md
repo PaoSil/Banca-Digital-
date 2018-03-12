@@ -281,3 +281,7 @@ Fuente: <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
 | 13 | Diversidad de opciones en planes de cuentas que se ajusten a sus requerimientos |
 | 14 | Importancia de que trámite de una cuenta nueva no sea engorroso |
 | 15 | Importancia de que trámite permita un buen servicio |
+
+**II. Prototyìng**
+
+Prototyping: <https://drive.google.com/drive/folders/1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu>
