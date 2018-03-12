@@ -198,7 +198,7 @@ Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 ![image-5](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/guia%20de%20entrevista.png)
 
 * **Stakeholders Internos**
-![image-6]()
+![image-6](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/guia%20de%20entrevistas-2.png)
 
 * **Encuesta Online**
 Link 5: <https://drive.google.com/open?id=1H1Dpg38wTcBQ0-Ekwco0b5edy9ma_gh6mZ4aM6qp7ws>
