@@ -161,7 +161,7 @@ Definiendo a nuestros principales  **STAKEHOLDERS**
 
 Segun el Plan de Research.
 
-![image-4](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/canvas-easy%20bank.png)
+![image-4](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/excel-actividades.png)
 
 Link : <https://drive.google.com/open?id=1Lpo6ULJrrxEJYKSIvspR37oa_oGl_Adc>
 
