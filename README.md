@@ -227,14 +227,31 @@ Google-Form: <https://goo.gl/forms/x3nVF6e0PllB8XYj2>
 **A. Entrevistas**
 * **Clientes**
 
-- **Resumen**.
+- **Descripcion**. Millenials comprenden entre 18-38 años
+
 - **Conclusiones**.
+
+- Uso de servicios bancarios para manejar volúmenes grandes de dinero
+- Tienen poco tiempo disponible
+- Los Milenials realizan muchas actividades
+- Desagrado por las notificaciones de venta de productos de créditos
+- Lo que más utilizan es las operaciones de transferencia
+- Dificultad para realizar las transferencias interbancarias entre diferentes bancos
+- Dificultad para realizar las transferencias internacionales
+- Van al banco presencialmente para asegurar que realizarán la operación
+- No tienen mucho tiempo para dar seguimiento a reclamos
 
 
 * **Stakeholders Internos**
 
-- **Resumen**.
+- **Descripcion**. Gerente de Operaciones "Banco El Pais"
+
 - **Conclusiones**.
+
+- Gestionar la demanda de iniciativas tecnologicas y de negocio asegurando el logro de los objetivos definidos en alcance, tiempo, costo y calidad.
+- Efectuar el seguimiento y control de los procesos que generen actividades con riesgo critico o de aspectos significativos a cargo de la Gerencia de Operaciones.
+- Ofrecer al cliente todos los servicios pero de una manera mas eficaz.
+- Mediante la banca digital agilizar las operaciones realizadas por los usuarios.
 
 * **Encuesta Online**
 
