@@ -292,9 +292,9 @@ Prototyping: <https://drive.google.com/drive/folders/1qX2YA43ZYbyjBQoFMiAqiXiYaH
 
 **Figma**
 
-![image-10]()
+![image-10](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/figma.png)
 
-Figma:
+Figma: <https://www.figma.com/file/WIp8UZkHNyTZWMnxj5LDdlzq/Easy-Bank>
 
 **Marvel**
 
