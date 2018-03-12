@@ -284,4 +284,6 @@ Fuente: <https://drive.google.com/open?id=1h4HykauWINu0Wbm87BaV5A-fSjTaS8Cv>
 
 **II. Prototyìng**
 
+![image-9](https://github.com/PaoSil/Banca-Digital-/blob/master/assets/prototyping.png)
+
 Prototyping: <https://drive.google.com/drive/folders/1qX2YA43ZYbyjBQoFMiAqiXiYaHfZWblu>
